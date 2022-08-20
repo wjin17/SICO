@@ -1,0 +1,19 @@
+{
+  "name": "safeinvestmenttoken",
+  "version": "1.0.0",
+  "description": "A way to safely invest in Web3",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test",
+    "migrate": "truffle migration --reset"
+  },
+  "author": "Willie Jin",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "web3": "^0.20.7"
+  }
+}
