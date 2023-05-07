@@ -1,5 +1,7 @@
 # SICO MODE
 
+![sicko mode](/assets/sickomode.jpeg)
+
 ## Introduction
 
 SICO is a standard for Safe ICO's. It is a combination of an ICO and a DAO. Since 2021, over $1 billion dollars in crypto assets have been stolen by fraudulent ICO's [[1]](https://www.cnn.com/2022/06/04/business/cryptocurrency-scammers-ftc-warning/index.html).
